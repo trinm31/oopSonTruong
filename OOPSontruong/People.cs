@@ -20,9 +20,9 @@ namespace OOPSontruong
         {
         }
 
-        public void PrintInPeople()
+        public void PrintName()
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine(Name);
         }
     }
 }
