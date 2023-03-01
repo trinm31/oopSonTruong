@@ -1,0 +1,12 @@
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/bin/Debug/netcoreapp3.1/OOPSontruong.deps.json
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/bin/Debug/netcoreapp3.1/OOPSontruong.runtimeconfig.json
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/bin/Debug/netcoreapp3.1/OOPSontruong.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/bin/Debug/netcoreapp3.1/OOPSontruong.dll
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/bin/Debug/netcoreapp3.1/OOPSontruong.pdb
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.csprojAssemblyReference.cache
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.dll
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.pdb
+/Users/tringuyen/RiderProjects/OOPSontruong/OOPSontruong/obj/Debug/netcoreapp3.1/OOPSontruong.genruntimeconfig.cache
