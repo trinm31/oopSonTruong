@@ -1,0 +1,12 @@
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/tringuyen/RiderProjects/OOPSontruong/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache

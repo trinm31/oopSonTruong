@@ -78,6 +78,9 @@ namespace OOPSontruong
             }
 
             Console.ReadKey();
+            
+            // viết một phần mềm máy tính cầm tay có 4 chưc năng cộng trừ nhân chia, trong đó cộng trừ nhân chia hỗ trợ cộng hai số nguyên, 3 số nguyên
+            // 2 số thập phân
         }
     }
 }
